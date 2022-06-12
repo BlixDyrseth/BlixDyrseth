@@ -2,7 +2,9 @@
 
 ## About me
 
-- Frontend-developer and designer based in Trondheim, Norway
+- Frontend-developer and designer based in Trondheim, Norway :norway:
+- How to reach me: [Email](ingdyrb@gmail.com) :envelope:
+
 
 
 <!--
