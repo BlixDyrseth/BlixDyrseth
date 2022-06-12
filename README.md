@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## About me
+
+- Frontend-developer and designer based in Trondheim, Norway
+
+
 <!--
 **BlixDyrseth/BlixDyrseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
