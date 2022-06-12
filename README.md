@@ -1,6 +1,8 @@
 # Hi there 👋
 
-## About me
+Welcome to my profile!
+
+## A little about me
 
 - Frontend-developer and designer based in Trondheim, Norway :norway:
 - How to reach me: [Linkedin](https://www.linkedin.com/in/ingrid-blix-dyrseth-096b2a241/) :envelope:
