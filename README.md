@@ -3,7 +3,7 @@
 ## About me
 
 - Frontend-developer and designer based in Trondheim, Norway :norway:
-- How to reach me: [Email](ingdyrb@gmail.com) :envelope:
+- How to reach me: [Linkedin](https://www.linkedin.com/in/ingrid-blix-dyrseth-096b2a241/) :envelope:
 
 
 
